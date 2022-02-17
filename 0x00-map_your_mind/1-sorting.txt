@@ -1,0 +1,8 @@
+To develop an algorithm that
+
+reads in three numbers and writes them all in sorted order
+
+// FOR LOOP:
+// SET counter to 1
+// increament counter by 3
+   PRINT number
