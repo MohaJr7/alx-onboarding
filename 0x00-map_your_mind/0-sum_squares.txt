@@ -1,0 +1,8 @@
+Developing an algorithm
+
+Calculate the sum of squares of given input of numbers.
+
+Read num1, num 2
+set square of num1, num2
+set sumsquare to ((num1)*2 + (num2)*2)
+print sumsquare 
